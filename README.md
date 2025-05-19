@@ -4,7 +4,7 @@ A Disney + landing page, with some cool and advanced features. A React JS landin
 
 # 🔗 Live Demo
 
-👉 [View]()
+👉 [View](https://disney-plus-clone-pied-psi.vercel.app/)
 
 # 🛠️ Tech Stack
 - React JS
@@ -22,7 +22,7 @@ A Disney + landing page, with some cool and advanced features. A React JS landin
 ```bash
 git clone
 
-cd
+cd disney_plus_clone
 
 npm install
 
