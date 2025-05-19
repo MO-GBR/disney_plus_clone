@@ -20,7 +20,7 @@ A Disney + landing page, with some cool and advanced features. A React JS landin
 # ⚡ Quick Start
 
 ```bash
-git clone
+git clone https://github.com/MO-GBR/disney_plus_clone.git
 
 cd disney_plus_clone
 
